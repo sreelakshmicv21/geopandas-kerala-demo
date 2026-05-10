@@ -1,6 +1,6 @@
 # GeoPandas Kerala Demo
 
-This project demonstrates a GeoPandas workflow on Kerala roads and districts.
+This project demonstrates a GeoPandas workflow on Kerala Highways and districts.
 
 ## Steps Covered
 - CRS handling
